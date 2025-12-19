@@ -1,6 +1,6 @@
 name: Docker CI/CD Pipeline
 
-# When will the pipeline run?
+# When will the pipeline run? 
 on:
   push:
     branches: 
